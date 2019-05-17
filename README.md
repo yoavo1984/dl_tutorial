@@ -8,6 +8,7 @@
 
 * Supervised DL
   * [Char level RNN](https://github.com/yoavo1984/dl_tutorial/blob/master/rnn_tutorial.ipynb)
+  * [Cifar 10 Experiments](https://github.com/yoavo1984/dl_tutorial/blob/master/cifar_10.ipynb)
   
 * Un-Supervised DL
   * [AutoEncoder](https://github.com/yoavo1984/dl_tutorial/blob/master/autoencoder_tutorial.ipynb)
