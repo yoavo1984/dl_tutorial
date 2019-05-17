@@ -13,3 +13,4 @@
 * Un-Supervised DL
   * [AutoEncoder](https://github.com/yoavo1984/dl_tutorial/blob/master/autoencoder_tutorial.ipynb)
   * [VAE](https://github.com/yoavo1984/dl_tutorial/blob/master/vae_tutorial.ipynb)
+  * [GAN](https://github.com/yoavo1984/dl_tutorial/blob/master/fmnist_gan.ipynb)
